@@ -12,8 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+hier tekst
+
 ## Header 2
+en hier ook tekst onder header 2
+
 ### Header 3
+en hier ook tekst onder header 3
 
 - Bulleted
 - List
